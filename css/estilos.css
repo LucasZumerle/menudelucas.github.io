@@ -1,0 +1,41 @@
+body{
+    background-color:#1a1a1a;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    width: 200px;
+    height: 50px;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.separador{
+    padding-top: 50px;
+}
+
+.fab{
+    font-size: 40px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.iconos{
+    width: 130px;
+}
+
+.hipervinculo{
+    color: #1a1a1a;
+}
+
+.hipervinculo:hover{
+    color: rgba(255, 255, 255, 0.808);
+}
+
+footer{
+    padding: 50px 0px 50px 0px;
+    background-color: #f3f2f0;
+}
